@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
 int arr[] ={12, 45,7,89,23};
@@ -16,5 +16,5 @@ int arr[] ={12, 45,7,89,23};
     printf("Minimum = %d\n",min);
     
     return 0;
-    }
+}
     
